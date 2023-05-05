@@ -1,0 +1,3 @@
+[submodule "shop/ShoppingProject/SoloProject"]
+	path = shop/ShoppingProject/SoloProject
+	url = git@github.com:VinPriya/E-Commerce.git
